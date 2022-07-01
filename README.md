@@ -1,0 +1,2 @@
+# Projeto-Unes
+O Projeto Unes é um projeto de site de uma universidade fictícia, escrito em HTML, que objetiva exercitar o conteúdo visto até o momento no curso de desenvolvimento web. Algumas técnicas utilizadas, apesar de não serem práticas recomendadas, foram utilizadas apenas para fins didáticos, com as devidas ressalvas e recomendações feitas e entendidas. No momento em que o conhecimento se expandir, as devidas práticas de mercado e recomendadas serão adotadas.
